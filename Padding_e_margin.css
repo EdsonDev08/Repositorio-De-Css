@@ -1,0 +1,21 @@
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    padding: 60px;
+    margin: 20px;
+}
+
+.box-2{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    padding: 90px;
+    margin: 100px 25px 100px 100px;
+   
+}
+
+/*margin: 10px 20px 35px;  quando coloco assim com 3 valores e primeiro é a margem de cima, o segundo é para olado esquerdo e dirieto e o último é pra baixo*/
+
+/*margin: 10px 50px;  Com dois vlaores, segnifica uqe o primeiro é pra cima e pra baixo e  e o segundo para os dois lados
+
